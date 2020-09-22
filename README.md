@@ -68,7 +68,7 @@ checked, as shown:
 
 ![Layers manager](./img/layers_manager.png)
 
-11.Check in the ‘Layers Manager’ window (located at the right  part  of  your  screen) that all  the needed  boxes  are checke
+11.Check in the ‘Layers Manager’ window (loceated at the right  part  of  your  screen) that all  the needed  boxes  are checke
 
 12. Now you  have  to  define  the  limits  of  the  PCB.  First, highlight  the  ‘Edge.Cuts’  layer.  Then,  select  the  ‘Add  graphic lines’ tool and began to trace the original measures of your copper board (15x20 cm.) You must also define the  cutting  area;  do  not  forget  to  add  a  2.5  cm  margin around the board. To measure the lines, you can use the ‘Add dimension’ tool located on the right.
 
