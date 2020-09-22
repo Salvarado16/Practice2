@@ -97,4 +97,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+For this practice the main problem that i had was to search for the devices to relationate the circuit with real life devices, without that i think that i had trouble with the conections in the pcb because it didnt go as I want but i think that with the practie i actually understand better how to do it. However i have to say that the application of seeing the devices in 3d and how eas the pcb going to be in real life was very usefull. 
